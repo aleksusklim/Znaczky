@@ -4,7 +4,7 @@
 
 Ссылка на оригинал: <http://www.spyro-realms.com/forum/48-12828-1>
 
-Текстовая копия, BB-коды: [znaczky.txt](Знатьки/znaczky.txt)
+Текстовая версия, BB-коды: [znaczky.txt](Знатьки/znaczky.txt)
 
 Размеченные в Markdown: [Знатьки](./Знатьки)
 

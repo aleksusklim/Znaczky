@@ -62,7 +62,7 @@ __\__\__\__\__
 
 __\__\__\__\__
 
-> А вот мой черновой образец расстановки ударений: <http://klimaleksus.narod.ru/Files/F/onmyown.mp3>
+> [А вот мой черновой образец расстановки ударений.](http://klimaleksus.narod.ru/Files/F/onmyown.mp3)
 
 ---
 
